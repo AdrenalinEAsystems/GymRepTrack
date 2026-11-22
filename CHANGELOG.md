@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.22 — 2026-11-22
+
+Naujas GRT stilius ir greitesnė treniruotė: praeito karto svoriai rodomi laukeliuose ir įrašomi vienu ✓, progresijos patarimas (kada kelti svorį), atlikti pratimai susiskleidžia, poilsio juosta nebeuždengia turinio, „Baigti“ klausia patvirtinimo. Tuščia serija nebeįrašoma kaip 0 × 0. Programa kraunasi greičiau ir nebepriklauso nuo išorinių CDN.
+
 ## v1.21 — 2026-11-22
 
 Poilsio pabaigą praneša tik Telegram botas su tavo pasirinktu garsu – programos pyptelėjimas ir foninis garsas išjungti, kai įjungti boto pranešimai.
