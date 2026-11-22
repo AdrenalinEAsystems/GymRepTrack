@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.22.1 — 2026-11-22
+
+Grąžintas kompaktiškas režimas (Nustatymai → Išdėstymo tankis) – mažesni laukeliai ir tarpai. Galima pasirinkti, po kiek laiko poilsio žinutė išsitrina bote: 30 s, 1 min, 5 min arba palikti.
+
 ## v1.22 — 2026-11-22
 
 Naujas GRT stilius ir greitesnė treniruotė: praeito karto svoriai rodomi laukeliuose ir įrašomi vienu ✓, progresijos patarimas (kada kelti svorį), atlikti pratimai susiskleidžia, poilsio juosta nebeuždengia turinio, „Baigti“ klausia patvirtinimo. Tuščia serija nebeįrašoma kaip 0 × 0. Programa kraunasi greičiau ir nebepriklauso nuo išorinių CDN.
