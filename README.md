@@ -1,9 +1,11 @@
+<p align="center"><img src="logo.png" alt="GRT · GymRepTrack" width="640"></p>
+
 # GRT · GymRepTrack
 
 Treniruočių dienoraštis tiesiai Telegram'e: programa, serijos, poilsio laikmatis, rekordai ir progresas.
 
-👉 **Atidaryti:** [@GymRepTrack_bot](https://t.me/GymRepTrack_bot)
-📢 **Naujienos:** Telegram kanalas (nuoroda bus čia)
+👉 **Atidaryti:** [@GymRepTrack_bot](https://t.me/GymRepTrack_bot)  
+📢 **Naujienos:** [t.me/gymreptrack](https://t.me/gymreptrack)
 
 ## Ką moka
 - Savo treniruočių programa: dienos, pratimai, serijos, kg / lb, drop-set
