@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.25 — 2026-11-23
+
+Atnaujinimai tikrinami patys (ir grįžus į programą) – vietoj mygtuko viršuje pasirodo juosta „Yra nauja versija → Atnaujinti“. Kompiuteryje (Telegram Desktop, išplėstas langas) programa naudoja visą plotį: pratimai ir istorija dviem stulpeliais.
+
 ## v1.24 — 2026-11-23
 
 Progresijos patarimas visada sako kitą žingsnį (pvz. „Didink pakartojimus: 10 → 12 su 70 lb, tada kelsi svorį"). Paliesk treniruotę istorijoje – pamatysi visą jos vaizdą su rekordais ir laiku. Nauja: savaitinė atsarginė kopija – kartą per savaitę botas pats atsiunčia .json kopiją į pokalbį (galima išjungti nustatymuose).
