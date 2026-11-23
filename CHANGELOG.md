@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.23 — 2026-11-23
+
+Naujas pratimo tipas „Savo svoris“ (kojų kėlimas, prisitraukimai ir pan. – pakartojimai, papildomas svoris neprivalomas, rekordai pagal pakartojimus). Progresijos patarimas atsargesnis: kelti siūloma tik po 2 treniruočių iš eilės, be konkrečių kg. Apšilimo kardio įskaičiuojamas į treniruotės laiką. Istorijoje – savaitės suvestinė, pratimų pavadinimų pasiūlymai, pilni pavadinimai programoje, trumpesnis įvadas.
+
 ## v1.22.1 — 2026-11-22
 
 Grąžintas kompaktiškas režimas (Nustatymai → Išdėstymo tankis) – mažesni laukeliai ir tarpai. Galima pasirinkti, po kiek laiko poilsio žinutė išsitrina bote: 30 s, 1 min, 5 min arba palikti.
