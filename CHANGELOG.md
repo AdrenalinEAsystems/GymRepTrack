@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.26 — 2026-11-23
+
+Patikimumas: jei programa tavo telefone susiduria su klaida, apie ją automatiškai sužino kūrėjas (siunčiamas tik klaidos tekstas, versija ir telefono tipas – jokių treniruočių duomenų). Serveris kasdien pasitikrina save.
+
 ## v1.25 — 2026-11-23
 
 Atnaujinimai tikrinami patys (ir grįžus į programą) – vietoj mygtuko viršuje pasirodo juosta „Yra nauja versija → Atnaujinti“. Kompiuteryje (Telegram Desktop, išplėstas langas) programa naudoja visą plotį: pratimai ir istorija dviem stulpeliais.
