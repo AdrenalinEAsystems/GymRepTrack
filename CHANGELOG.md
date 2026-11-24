@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.29 — 2026-11-24
+
+Importas iš Hevy ir Strong (BETA): Nustatymuose įkeli jų CSV eksportą ir visa treniruočių istorija persikelia į GRT. Pratimus gali susieti su savo esamais (kad veiktų „Praeitą kartą“, rekordai ir patarimai), o pagal treniruočių pavadinimus programa gali iškart sukurti dienas. Svarai automatiškai paverčiami kilogramais, apšilimo serijos praleidžiamos, pakartotinai įkėlus dublikatų nebus.
+
 ## v1.28 — 2026-11-24
 
 Istorija kalendoriuje: mėnesio vaizdas, treniruočių dienos pažymėtos spalvomis pagal programos dieną, paspaudus dieną – visa treniruotė. Filtrai pagal programos dieną ir pagal pratimą (pasirinkus pratimą matai tik jo serijas kiekvieną kartą).
