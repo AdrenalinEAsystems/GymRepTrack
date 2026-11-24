@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.28 — 2026-11-24
+
+Istorija kalendoriuje: mėnesio vaizdas, treniruočių dienos pažymėtos spalvomis pagal programos dieną, paspaudus dieną – visa treniruotė. Filtrai pagal programos dieną ir pagal pratimą (pasirinkus pratimą matai tik jo serijas kiekvieną kartą).
+
 ## v1.27.1 — 2026-11-24
 
 Pataisyta „Telegram“ tema: su šviesia Telegram tema laukeliai ir mygtukai nebėra tamsūs – visos spalvos prisitaiko prie tavo Telegram.
