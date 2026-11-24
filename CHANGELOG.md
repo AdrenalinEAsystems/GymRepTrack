@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.27.1 — 2026-11-24
+
+Pataisyta „Telegram“ tema: su šviesia Telegram tema laukeliai ir mygtukai nebėra tamsūs – visos spalvos prisitaiko prie tavo Telegram.
+
 ## v1.27 — 2026-11-24
 
 Paprastesni patarimai: kai tą patį svorį padarai 2 ar daugiau kartų iš eilės, programa pasiūlo bandyti kelti (galima išjungti nustatymuose – „Patarimai kelti svorį“). Pratimas su drop-set nebesusiskleidžia, kol drop-set neatliktas.
