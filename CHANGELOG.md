@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.31 — 2026-11-24
+
+Savaitės suvestinė: pirmą kartą naują savaitę atidarius programą, botas atsiunčia praeitos savaitės santrauką – treniruotės, laikas, serijos, tonažas su palyginimu, nauji rekordai ir kelios savaitės iš eilės sportuoji (išjungiama Nustatymuose). Programos redaktoriuje pratimų tvarką keiti tempdamas už ⠿.
+
 ## v1.30.1 — 2026-11-24
 
 Pataisytas poilsio pranešimo nustatymo aprašymas: žinutė išsitrina po tavo pasirinkto laiko (30 s / 1 min / 5 min / palikti), o ne visada po 90 s.
