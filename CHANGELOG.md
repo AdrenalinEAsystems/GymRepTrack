@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.32 — 2026-11-24
+
+Suvestinės dabar ateina tiksliu laiku: savaitės – kiekvieną sekmadienį 20:00, o mėnesio – paskutinę mėnesio dieną 20:00 (treniruotės, laikas, serijos, tonažas su palyginimu, dažniausios dienos, rekordai). Kiekvieną galima išjungti atskirai – Nustatymuose arba mygtuku „🔕 Išjungti“ po pačia žinute.
+
 ## v1.31 — 2026-11-24
 
 Savaitės suvestinė: pirmą kartą naują savaitę atidarius programą, botas atsiunčia praeitos savaitės santrauką – treniruotės, laikas, serijos, tonažas su palyginimu, nauji rekordai ir kelios savaitės iš eilės sportuoji (išjungiama Nustatymuose). Programos redaktoriuje pratimų tvarką keiti tempdamas už ⠿.
