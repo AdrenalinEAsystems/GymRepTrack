@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.30.1 — 2026-11-24
+
+Pataisytas poilsio pranešimo nustatymo aprašymas: žinutė išsitrina po tavo pasirinkto laiko (30 s / 1 min / 5 min / palikti), o ne visada po 90 s.
+
 ## v1.30 — 2026-11-24
 
 Pastabos: prie kiekvieno pratimo mygtukas 📝. „📌 Visada rodoma“ – treniruoklio nustatymai ar technika (pvz. sėdynė 4, plyta 7 kg), matoma kiekvieną kartą. „💬 Šiai treniruotei“ – kaip sekėsi šiandien; kitą kartą ją matysi prie „Praeitą kartą“. Pastabą galima parašyti ir visai treniruotei (📝 šalia „Baigti“). Pastabos matomos istorijoje, o importas iš Hevy / Strong perkelia ir jų pastabas.
