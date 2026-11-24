@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.27 — 2026-11-24
+
+Paprastesni patarimai: kai tą patį svorį padarai 2 ar daugiau kartų iš eilės, programa pasiūlo bandyti kelti (galima išjungti nustatymuose – „Patarimai kelti svorį“). Pratimas su drop-set nebesusiskleidžia, kol drop-set neatliktas.
+
 ## v1.26 — 2026-11-23
 
 Patikimumas: jei programa tavo telefone susiduria su klaida, apie ją automatiškai sužino kūrėjas (siunčiamas tik klaidos tekstas, versija ir telefono tipas – jokių treniruočių duomenų). Serveris kasdien pasitikrina save.
