@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.40 — 2026-11-24
+
+Programa dabar ir angliškai 🇬🇧 Kalba parenkama automatiškai (lietuviams – lietuviškai), o Nustatymuose ją galima pakeisti: Automatiškai / Lietuvių / English. Angliškai kalba ir botas – poilsio pranešimai, kopijos, suvestinės.
+
 ## v1.32 — 2026-11-24
 
 Suvestinės dabar ateina tiksliu laiku: savaitės – kiekvieną sekmadienį 20:00, o mėnesio – paskutinę mėnesio dieną 20:00 (treniruotės, laikas, serijos, tonažas su palyginimu, dažniausios dienos, rekordai). Kiekvieną galima išjungti atskirai – Nustatymuose arba mygtuku „🔕 Išjungti“ po pačia žinute.
