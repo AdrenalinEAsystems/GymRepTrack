@@ -1,5 +1,9 @@
 # Pakeitimai
 
+## v1.30 — 2026-11-24
+
+Pastabos: prie kiekvieno pratimo mygtukas 📝. „📌 Visada rodoma“ – treniruoklio nustatymai ar technika (pvz. sėdynė 4, plyta 7 kg), matoma kiekvieną kartą. „💬 Šiai treniruotei“ – kaip sekėsi šiandien; kitą kartą ją matysi prie „Praeitą kartą“. Pastabą galima parašyti ir visai treniruotei (📝 šalia „Baigti“). Pastabos matomos istorijoje, o importas iš Hevy / Strong perkelia ir jų pastabas.
+
 ## v1.29 — 2026-11-24
 
 Importas iš Hevy ir Strong (BETA): Nustatymuose įkeli jų CSV eksportą ir visa treniruočių istorija persikelia į GRT. Pratimus gali susieti su savo esamais (kad veiktų „Praeitą kartą“, rekordai ir patarimai), o pagal treniruočių pavadinimus programa gali iškart sukurti dienas. Svarai automatiškai paverčiami kilogramais, apšilimo serijos praleidžiamos, pakartotinai įkėlus dublikatų nebus.
