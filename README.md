@@ -23,4 +23,4 @@ Ne dar viena programėlė telefone: GRT gyvena Telegram'e, kurį jau turi. Nerei
 Visos versijos: [CHANGELOG.md](CHANGELOG.md) ir [Releases](../../releases). Puslapis atnaujinamas automatiškai.
 
 ## Privatumas
-Veikimui serveris saugo tik minimalius techninius duomenis. Treniruočių duomenys lieka tavo įrenginyje ir tavo Telegram debesyje.
+Veikimui serveris saugo tik minimalius techninius duomenis. Treniruočių duomenys lieka tavo įrenginyje ir tavo Telegram debesyje; savaitės ir mėnesio suvestinės serveryje laikomos tik iki jų išsiuntimo.
