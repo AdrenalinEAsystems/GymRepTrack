@@ -1,4 +1,8 @@
-# Pakeitimai
+# Changelog
+
+## v1.41 — 2026-11-25
+
+Reliability update 🛠 If you switch days mid-workout, every exercise is now saved (history shows the other day’s name too). More reliable sync and backup restore, and a clear warning when your phone's storage is full. Switching kg↔lb now converts your previous weights. Plus a dozen small fixes.
 
 ## v1.40 — 2026-11-24
 
