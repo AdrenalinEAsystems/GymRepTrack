@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.43 — 2026-11-26
+
+Reliability fixes 🛠 Workouts you deleted and imported again no longer disappear, editing an exercise while the program changes on another device saves the right exercise, and the weekly streak no longer resets when clocks change. Safer CSV export to Excel and more reliable sync for large histories.
+
 ## v1.42 — 2026-11-26
 
 Polish update ✨ Counts now read correctly (“1 workout”, “1 rep”) and volume uses proper number formatting (15,192 kg). Multi-device sync is more reliable: the field you're typing in no longer resets, sets ticked on another device are kept, and a phone clock that's off can no longer undo your changes.
