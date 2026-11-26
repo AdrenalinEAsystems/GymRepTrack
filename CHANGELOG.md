@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.41.1 — 2026-11-26
+
+In History, filtering by exercise now lists each exercise once even if it appears on several days, and the calendar shows all of its days.
+
 ## v1.41 — 2026-11-25
 
 Reliability update 🛠 If you switch days mid-workout, every exercise is now saved (history shows the other day’s name too). More reliable sync and backup restore, and a clear warning when your phone's storage is full. Switching kg↔lb now converts your previous weights. Plus a dozen small fixes.
