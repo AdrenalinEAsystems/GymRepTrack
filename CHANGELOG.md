@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.43.1 — 2026-11-26
+
+Small fixes: bodyweight exercises now show reps in Progress (no kg or 1RM), Hevy/Strong imports keep pounds (lb), and re-importing late-evening workouts no longer creates duplicates.
+
 ## v1.43 — 2026-11-26
 
 Reliability fixes 🛠 Workouts you deleted and imported again no longer disappear, editing an exercise while the program changes on another device saves the right exercise, and the weekly streak no longer resets when clocks change. Safer CSV export to Excel and more reliable sync for large histories.
