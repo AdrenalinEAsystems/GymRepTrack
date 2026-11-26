@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.42 — 2026-11-26
+
+Polish update ✨ Counts now read correctly (“1 workout”, “1 rep”) and volume uses proper number formatting (15,192 kg). Multi-device sync is more reliable: the field you're typing in no longer resets, sets ticked on another device are kept, and a phone clock that's off can no longer undo your changes.
+
 ## v1.41.1 — 2026-11-26
 
 In History, filtering by exercise now lists each exercise once even if it appears on several days, and the calendar shows all of its days.
